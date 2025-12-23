@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <SpoonerPlacements>
 	<ClearDatabase>false</ClearDatabase>
-	<ClearWorld>0</ClearWorld>
-	<ClearMarkers>false</ClearMarkers>
+	<ClearWorld>false</ClearWorld>
 	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
 	<IPLsToRemove />
-	<WeatherToSet></WeatherToSet>
-	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
 	<ReferenceCoords>
 		<X>-186.749802</X>
 		<Y>-265.280792</Y>
@@ -17,14 +14,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht</HashName>
-		<InitialHandle>585026</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>7</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>81666</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -39,7 +32,7 @@
 			<Y>-270.185913</Y>
 			<Z>474.785767</Z>
 			<Pitch>-6.66867322e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -49,14 +42,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_win</HashName>
-		<InitialHandle>503387</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>81922</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -71,7 +60,7 @@
 			<Y>-270.185913</Y>
 			<Z>474.785767</Z>
 			<Pitch>-6.6686124e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -81,14 +70,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_option2</HashName>
-		<InitialHandle>627035</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>7</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>82178</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -103,7 +88,7 @@
 			<Y>-270.185913</Y>
 			<Z>489.355774</Z>
 			<Pitch>-6.6686124e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -113,14 +98,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_option2_cola</HashName>
-		<InitialHandle>683611</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>82434</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>false</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -135,7 +116,7 @@
 			<Y>-270.185913</Y>
 			<Z>489.355774</Z>
 			<Pitch>-6.6686124e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -145,14 +126,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_option2_colb</HashName>
-		<InitialHandle>785208</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>82690</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>false</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -167,7 +144,35 @@
 			<Y>-270.185913</Y>
 			<Z>489.355774</Z>
 			<Pitch>-6.6686124e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
+			<Yaw>-175.000031</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0x75f724b2</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<HashName>apa_mp_apa_yacht_o2_rail_a</HashName>
+		<InitialHandle>82946</InitialHandle>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<Health>1000</Health>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-215.771286</X>
+			<Y>-270.185913</Y>
+			<Z>489.355774</Z>
+			<Pitch>-6.66854703e-007</Pitch>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -177,14 +182,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_door</HashName>
-		<InitialHandle>182101</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>7</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>83202</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -199,8 +200,8 @@
 			<Y>-265.689148</Y>
 			<Z>475.43573</Z>
 			<Pitch>4.78562906e-005</Pitch>
-			<Roll>-6.66873404e-007</Roll>
-			<Yaw>94.9999466</Yaw>
+			<Roll>-6.66873007e-007</Roll>
+			<Yaw>94.9999542</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -209,14 +210,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_door</HashName>
-		<InitialHandle>127324</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>7</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>83458</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -231,7 +228,7 @@
 			<Y>-266.798859</Y>
 			<Z>481.485748</Z>
 			<Pitch>-4.78562906e-005</Pitch>
-			<Roll>6.66889321e-007</Roll>
+			<Roll>6.66888923e-007</Roll>
 			<Yaw>-85.0000076</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -241,14 +238,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_door</HashName>
-		<InitialHandle>268624</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>7</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>83714</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -263,8 +256,8 @@
 			<Y>-269.588196</Y>
 			<Z>481.485748</Z>
 			<Pitch>4.78562906e-005</Pitch>
-			<Roll>-6.66873404e-007</Roll>
-			<Yaw>94.9999466</Yaw>
+			<Roll>-6.66873007e-007</Roll>
+			<Yaw>94.9999542</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -273,14 +266,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_yacht_jacuzzi_ripple1</HashName>
-		<InitialHandle>211281</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>83970</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -295,7 +284,7 @@
 			<Y>-263.748596</Y>
 			<Z>474.785736</Z>
 			<Pitch>-6.66873007e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -305,14 +294,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>197461</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>84226</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -337,14 +322,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>674906</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>84482</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -369,14 +350,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>403034</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>84738</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -391,7 +368,7 @@
 			<Y>-272.634888</Y>
 			<Z>475.285797</Z>
 			<Pitch>-90</Pitch>
-			<Roll>-4.99996805</Roll>
+			<Roll>-4.99996758</Roll>
 			<Yaw>0</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -401,14 +378,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>99656</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>84994</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -433,14 +406,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>215637</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>85250</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -454,9 +423,9 @@
 			<X>-169.385925</X>
 			<Y>-261.108643</Y>
 			<Z>470.785736</Z>
-			<Pitch>4.75978777e-005</Pitch>
-			<Roll>-109.999985</Roll>
-			<Yaw>94.9999466</Yaw>
+			<Pitch>4.77046015e-005</Pitch>
+			<Roll>-109.999992</Roll>
+			<Yaw>94.9999542</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -465,14 +434,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>prop_windmill_01</HashName>
-		<InitialHandle>262197</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>85506</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -487,8 +452,8 @@
 			<Y>-268.181641</Y>
 			<Z>470.785736</Z>
 			<Pitch>4.73844339e-005</Pitch>
-			<Roll>109.999985</Roll>
-			<Yaw>94.9999542</Yaw>
+			<Roll>109.999992</Roll>
+			<Yaw>94.9999619</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -497,14 +462,10 @@
 		<Type>3</Type>
 		<Dynamic>false</Dynamic>
 		<HashName>apa_mp_apa_y2_l2a</HashName>
-		<InitialHandle>459354</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>255</TextureVariation>
-		</ObjectProperties>
+		<InitialHandle>85762</InitialHandle>
 		<OpacityLevel>255</OpacityLevel>
 		<LodDistance>16960</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
 		<IsInvincible>false</IsInvincible>
@@ -519,28 +480,102 @@
 			<Y>-270.185913</Y>
 			<Z>489.356781</Z>
 			<Pitch>-6.6686124e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
+			<Roll>-4.78562979e-005</Roll>
 			<Yaw>-175.000031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
 	<Placement>
-		<ModelHash>0xa09e15fd</ModelHash>
+		<ModelHash>0xcb1a9ac1</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<HashName>prop_air_lights_04a</HashName>
+		<InitialHandle>86018</InitialHandle>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<Health>1000</Health>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-164.87822</X>
+			<Y>-266.737183</Y>
+			<Z>474.385742</Z>
+			<Pitch>-6.66873007e-007</Pitch>
+			<Roll>-4.78562979e-005</Roll>
+			<Yaw>-175.000031</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="true">
+			<AttachedTo>83970</AttachedTo>
+			<BoneIndex>0</BoneIndex>
+			<X>0</X>
+			<Y>3.00000072</Y>
+			<Z>-0.400000095</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>0</Yaw>
+		</Attachment>
+	</Placement>
+	<Placement>
+		<ModelHash>0xcb1a9ac1</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<HashName>prop_air_lights_04a</HashName>
+		<InitialHandle>86274</InitialHandle>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<Health>1000</Health>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-165.401138</X>
+			<Y>-260.76001</Y>
+			<Z>474.385742</Z>
+			<Pitch>6.66888468e-007</Pitch>
+			<Roll>4.78562943e-005</Roll>
+			<Yaw>4.99998522</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="true">
+			<AttachedTo>83970</AttachedTo>
+			<BoneIndex>0</BoneIndex>
+			<X>0</X>
+			<Y>-2.99999952</Y>
+			<Z>-0.400000095</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>180.000015</Yaw>
+		</Attachment>
+	</Placement>
+	<Placement>
+		<ModelHash>0x4019cb4c</ModelHash>
 		<Type>2</Type>
 		<Dynamic>true</Dynamic>
-		<HashName>Valkyrie</HashName>
-		<InitialHandle>85301</InitialHandle>
+		<HashName>Swift Deluxe</HashName>
+		<InitialHandle>86530</InitialHandle>
 		<VehicleProperties>
 			<Colours>
-				<Primary>14</Primary>
-				<Secondary>12</Secondary>
-				<Pearl>18</Pearl>
+				<Primary>159</Primary>
+				<Secondary>16</Secondary>
+				<Pearl>160</Pearl>
 				<Rim>156</Rim>
-				<Mod1_a>-1600252419</Mod1_a>
-				<Mod1_b>-531507322</Mod1_b>
-				<Mod1_c>-1748716944</Mod1_c>
-				<Mod2_a>1</Mod2_a>
-				<Mod2_b>2008744904</Mod2_b>
+				<Mod1_a>6</Mod1_a>
+				<Mod1_b>-1</Mod1_b>
+				<Mod1_c>-1</Mod1_c>
+				<Mod2_a>6</Mod2_a>
+				<Mod2_b>-1</Mod2_b>
 				<IsPrimaryColourCustom>false</IsPrimaryColourCustom>
 				<IsSecondaryColourCustom>false</IsSecondaryColourCustom>
 				<tyreSmoke_R>255</tyreSmoke_R>
@@ -550,21 +585,18 @@
 				<LrDashboard>0</LrDashboard>
 			</Colours>
 			<Livery>-1</Livery>
-			<NumberPlateText>89OCQ025</NumberPlateText>
-			<NumberPlateIndex>0</NumberPlateIndex>
+			<NumberPlateText> MENYOO </NumberPlateText>
+			<NumberPlateIndex>5</NumberPlateIndex>
 			<WheelType>0</WheelType>
 			<WheelsInvisible>false</WheelsInvisible>
-			<EngineSoundName></EngineSoundName>
 			<WindowTint>-1</WindowTint>
 			<BulletProofTyres>true</BulletProofTyres>
-			<DirtLevel>0</DirtLevel>
-			<PaintFade>0.298039228</PaintFade>
+			<DirtLevel>1.00000238</DirtLevel>
+			<PaintFade>0.70588237</PaintFade>
 			<RoofState>0</RoofState>
-			<SirenActive>false</SirenActive>
 			<EngineOn>false</EngineOn>
 			<EngineHealth>1000</EngineHealth>
-			<LightsOn>false</LightsOn>
-			<IsRadioLoud>0</IsRadioLoud>
+			<LightsOn>true</LightsOn>
 			<Neons>
 				<Left>false</Left>
 				<Right>false</Right>
@@ -607,11 +639,6 @@
 				<_1>true</_1>
 				<_2>true</_2>
 				<_7>true</_7>
-				<_8>true</_8>
-				<_9>true</_9>
-				<_12>false</_12>
-				<_13>false</_13>
-				<_14>true</_14>
 			</ModExtras>
 			<Mods>
 				<_0>-1,0</_0>
@@ -666,57 +693,24 @@
 			</Mods>
 		</VehicleProperties>
 		<OpacityLevel>255</OpacityLevel>
-		<LodDistance>16960</LodDistance>
+		<LodDistance>1000</LodDistance>
 		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
 		<Health>1000</Health>
 		<IsOnFire>false</IsOnFire>
-		<IsInvincible>false</IsInvincible>
-		<IsBulletProof>false</IsBulletProof>
-		<IsCollisionProof>false</IsCollisionProof>
-		<IsExplosionProof>false</IsExplosionProof>
+		<IsInvincible>true</IsInvincible>
+		<IsBulletProof>true</IsBulletProof>
+		<IsCollisionProof>true</IsCollisionProof>
+		<IsExplosionProof>true</IsExplosionProof>
 		<IsFireProof>false</IsFireProof>
-		<IsMeleeProof>false</IsMeleeProof>
+		<IsMeleeProof>true</IsMeleeProof>
 		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
 		<PositionRotation>
-			<X>-252.543686</X>
-			<Y>-271.647339</Y>
-			<Z>480.002319</Z>
-			<Pitch>0.254184783</Pitch>
-			<Roll>0.118712507</Roll>
-			<Yaw>-83.6543274</Yaw>
-		</PositionRotation>
-		<Attachment isAttached="false" />
-	</Placement>
-	<Placement>
-		<ModelHash>0x840ec0e1</ModelHash>
-		<Type>3</Type>
-		<Dynamic>false</Dynamic>
-		<HashName>apa_mp_apa_yacht_o2_rail_b</HashName>
-		<InitialHandle>167527</InitialHandle>
-		<ObjectProperties>
-			<TextureVariation>0</TextureVariation>
-		</ObjectProperties>
-		<OpacityLevel>255</OpacityLevel>
-		<LodDistance>16960</LodDistance>
-		<IsVisible>true</IsVisible>
-		<MaxHealth>1000</MaxHealth>
-		<Health>1000</Health>
-		<IsOnFire>false</IsOnFire>
-		<IsInvincible>false</IsInvincible>
-		<IsBulletProof>false</IsBulletProof>
-		<IsCollisionProof>false</IsCollisionProof>
-		<IsExplosionProof>false</IsExplosionProof>
-		<IsFireProof>false</IsFireProof>
-		<IsMeleeProof>false</IsMeleeProof>
-		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
-		<PositionRotation>
-			<X>-215.771286</X>
-			<Y>-270.185913</Y>
-			<Z>489.355774</Z>
-			<Pitch>-6.66854703e-007</Pitch>
-			<Roll>-4.78563015e-005</Roll>
-			<Yaw>-175.000031</Yaw>
+			<X>-252.227707</X>
+			<Y>-271.529358</Y>
+			<Z>479.515717</Z>
+			<Pitch>-0.289235562</Pitch>
+			<Roll>2.57035845e-005</Roll>
+			<Yaw>-85.2750473</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>

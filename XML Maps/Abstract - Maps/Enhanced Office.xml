@@ -7,6 +7,70 @@
 	<ClearMarkers>false</ClearMarkers>
 	<IPLsToLoad load_mp_maps="true" load_sp_maps="false">
 		<IPL>ex_dt1_02_office_01a</IPL>
+		<IPL>plg_01</IPL>
+		<IPL>prologue01</IPL>
+		<IPL>prologue01_lod</IPL>
+		<IPL>prologue01c</IPL>
+		<IPL>prologue01c_lod</IPL>
+		<IPL>prologue01d</IPL>
+		<IPL>prologue01d_lod</IPL>
+		<IPL>prologue01e</IPL>
+		<IPL>prologue01e_lod</IPL>
+		<IPL>prologue01f</IPL>
+		<IPL>prologue01f_lod</IPL>
+		<IPL>prologue01g</IPL>
+		<IPL>prologue01h</IPL>
+		<IPL>prologue01h_lod</IPL>
+		<IPL>prologue01i</IPL>
+		<IPL>prologue01i_lod</IPL>
+		<IPL>prologue01j</IPL>
+		<IPL>prologue01j_lod</IPL>
+		<IPL>prologue01k</IPL>
+		<IPL>prologue01k_lod</IPL>
+		<IPL>prologue01z</IPL>
+		<IPL>prologue01z_lod</IPL>
+		<IPL>plg_02</IPL>
+		<IPL>prologue02</IPL>
+		<IPL>prologue02_lod</IPL>
+		<IPL>plg_03</IPL>
+		<IPL>prologue03</IPL>
+		<IPL>prologue03_lod</IPL>
+		<IPL>prologue03b</IPL>
+		<IPL>prologue03b_lod</IPL>
+		<IPL>prologue03_grv_dug</IPL>
+		<IPL>prologue03_grv_dug_lod</IPL>
+		<IPL>prologue_grv_torch</IPL>
+		<IPL>plg_04</IPL>
+		<IPL>prologue04</IPL>
+		<IPL>prologue04_lod</IPL>
+		<IPL>prologue04b</IPL>
+		<IPL>prologue04b_lod</IPL>
+		<IPL>prologue04_cover</IPL>
+		<IPL>des_protree_end</IPL>
+		<IPL>des_protree_start</IPL>
+		<IPL>des_protree_start_lod</IPL>
+		<IPL>plg_05</IPL>
+		<IPL>prologue05</IPL>
+		<IPL>prologue05_lod</IPL>
+		<IPL>prologue05b</IPL>
+		<IPL>prologue05b_lod</IPL>
+		<IPL>plg_06</IPL>
+		<IPL>prologue06</IPL>
+		<IPL>prologue06_lod</IPL>
+		<IPL>prologue06b</IPL>
+		<IPL>prologue06b_lod</IPL>
+		<IPL>prologue06_int</IPL>
+		<IPL>prologue06_int_lod</IPL>
+		<IPL>prologue06_pannel</IPL>
+		<IPL>prologue06_pannel_lod</IPL>
+		<IPL>prologue_m2_door</IPL>
+		<IPL>prologue_m2_door_lod</IPL>
+		<IPL>plg_occl_00</IPL>
+		<IPL>prologue_occl</IPL>
+		<IPL>plg_rd</IPL>
+		<IPL>prologuerd</IPL>
+		<IPL>prologuerdb</IPL>
+		<IPL>prologuerd_lod</IPL>
 	</IPLsToLoad>
 	<IPLsToRemove />
 	<WeatherToSet></WeatherToSet>
@@ -17,9 +81,9 @@
 		<Z>50.0279541</Z>
 	</ImgLoadingCoords>
 	<ReferenceCoords>
-		<X>-134.657013</X>
-		<Y>-643.508118</Y>
-		<Z>168.835342</Z>
+		<X>3360.19f</X>
+		<Y>-4849.67</Y>
+		<Z>111.8</Z>
 	</ReferenceCoords>
 	<Placement>
 		<ModelHash>0x5e36b0b3</ModelHash>
