@@ -1,8 +1,4 @@
-local PaidTier = require("BiggerScript/lib/paid_tier")
-if PaidTier.IsPaid() then --idk why it's reveresed when loading natives idk care
-GUI.AddToast("BiggerScript", "Has been disabled as part Cheraxian Protest!!! ping @cosmos to learn more", 20000, 0)
 SetShouldUnload()
-end
 
 -- !!! DO NOT MODIFY THIS FILE !!!
 -- GTA 5 Natives for Cherax Mod Menu. Generated with NativeGenerator on 22-12-2023 12:31:11.
